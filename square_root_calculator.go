@@ -13,7 +13,7 @@ func main() {
 	var output float64
 	output = math.Sqrt(input)
 
-	fmt.Println("They Square Root of", input, "is", output)
+	fmt.Println("The Square Root of", input, "is", output)
 
 	if output == float64(int64(output)) {
 		fmt.Println("Your answer returned a Perfect Square!")
