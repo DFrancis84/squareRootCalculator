@@ -1,2 +1,2 @@
 # squareRootCalculator
-First Program that I have created utilizing Golang. 
+First Program that I built utilizing Golang. 
